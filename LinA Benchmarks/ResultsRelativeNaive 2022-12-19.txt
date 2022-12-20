@@ -1,0 +1,12 @@
+(((2.0e-7 * x ^ 5 - 2.74e-5 * x ^ 4) + 0.0015145 * x ^ 3) - 0.0245327 * x ^ 2) + 1.9243487x + 5.9056863
+tolerence : 1.0 %,  pieces  7, time : 0.0140959  sec
+tolerence : 0.1 %,  pieces  41, time : 0.0704669  sec
+tolerence : 0.01 %,  pieces  82, time : 0.3777868  sec
+(0.001 * x ^ 3 - 0.024 * x ^ 2) + 1.92x + 5.91
+tolerence : 1.0 %,  pieces  10, time : 0.0171962  sec
+tolerence : 0.1 %,  pieces  43, time : 0.0928766  sec
+tolerence : 0.01 %,  pieces  92, time : 0.5434063  sec
+((-0.005 * x ^ 3 + 0.5 * x ^ 2) - 0.8x) + 10.0
+tolerence : 1.0 %,  pieces  60, time : 0.2527331  sec
+tolerence : 0.1 %,  pieces  88, time : 1.0006642  sec
+tolerence : 0.01 %,  pieces  437, time : 36.3368243  sec

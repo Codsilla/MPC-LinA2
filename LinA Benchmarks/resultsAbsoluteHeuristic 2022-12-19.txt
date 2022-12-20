@@ -1,0 +1,50 @@
+x ^ 2
+tolerence : ± 0.1,  pieces  8, time : 0.0028782  sec
+tolerence : ± 0.05,  pieces  12, time : 0.0038475  sec
+tolerence : ± 0.01,  pieces  25, time : 0.0076562  sec
+tolerence : ± 0.005,  pieces  35, time : 0.0103731  sec
+log(x)
+tolerence : ± 0.1,  pieces  3, time : 0.001339  sec
+tolerence : ± 0.05,  pieces  4, time : 0.0015892  sec
+tolerence : ± 0.01,  pieces  9, time : 0.0028589  sec
+tolerence : ± 0.005,  pieces  13, time : 0.0037617  sec
+sin(x)
+tolerence : ± 0.1,  pieces  6, time : 0.0019119  sec
+tolerence : ± 0.05,  pieces  6, time : 0.0022414  sec
+tolerence : ± 0.01,  pieces  14, time : 0.003988  sec
+tolerence : ± 0.005,  pieces  18, time : 0.0049855  sec
+tanh(x)
+tolerence : ± 0.1,  pieces  4, time : 0.0017689  sec
+tolerence : ± 0.05,  pieces  6, time : 0.0023392  sec
+tolerence : ± 0.01,  pieces  10, time : 0.0034689  sec
+tolerence : ± 0.005,  pieces  14, time : 0.0045561  sec
+sin(x) / x
+tolerence : ± 0.1,  pieces  5, time : 0.0029148  sec
+tolerence : ± 0.05,  pieces  6, time : 0.0031955  sec
+tolerence : ± 0.01,  pieces  10, time : 0.0043482  sec
+tolerence : ± 0.005,  pieces  15, time : 0.0054531  sec
+2 * x ^ 2 + x ^ 3
+tolerence : ± 0.1,  pieces  12, time : 0.0048477  sec
+tolerence : ± 0.05,  pieces  16, time : 0.0058864  sec
+tolerence : ± 0.01,  pieces  35, time : 0.0109186  sec
+tolerence : ± 0.005,  pieces  48, time : 0.0144024  sec
+exp(-x) * sin(x)
+tolerence : ± 0.1,  pieces  16, time : 0.0054302  sec
+tolerence : ± 0.05,  pieces  21, time : 0.0068012  sec
+tolerence : ± 0.01,  pieces  45, time : 0.0139252  sec
+tolerence : ± 0.005,  pieces  63, time : 0.0186606  sec
+exp(-100.0 * (x - 2.0) ^ 2.0)
+tolerence : ± 0.1,  pieces  6, time : 0.0026704  sec
+tolerence : ± 0.05,  pieces  6, time : 0.0028872  sec
+tolerence : ± 0.01,  pieces  12, time : 0.0042597  sec
+tolerence : ± 0.005,  pieces  16, time : 0.0052765  sec
+1.03 * exp(-100 * (x - 1.2) ^ 2) + exp(-100 * (x - 2) ^ 2)
+tolerence : ± 0.1,  pieces  11, time : 0.0075352  sec
+tolerence : ± 0.05,  pieces  11, time : 0.0079875  sec
+tolerence : ± 0.01,  pieces  23, time : 0.010937  sec
+tolerence : ± 0.005,  pieces  31, time : 0.0130513  sec
+(((7 + 588600 / (10.281425389435245 - 2 * 2.3716 * (0.8885729807284853 * cos(x + -2.0943951023931953) - 0.11142701927151462)) ^ 6 + 600800 / (10.281425389435245 - 2 * 2.3716 * (0.8885729807284853 * cos(x) - 0.11142701927151462)) ^ 6 + 481300 / (10.281425389435245 - 2 * 2.3716 * (0.8885729807284853 * cos(x + 2.0943951023931953) - 0.11142701927151462)) ^ 6) - 1079.1 / (10.281425389435245 - 2 * 2.3716 * (0.8885729807284853 * cos(x + -2.0943951023931953) - 0.11142701927151462)) ^ 3) - 1071.5 / (10.281425389435245 - 2 * 2.3716 * (0.8885729807284853 * cos(x) - 0.11142701927151462)) ^ 3) - 1064.6 / (10.281425389435245 - 2 * 2.3716 * (0.8885729807284853 * cos(x + 2.0943951023931953) - 0.11142701927151462)) ^ 3
+tolerence : ± 0.1,  pieces  19, time : 0.0932358  sec
+tolerence : ± 0.05,  pieces  24, time : 0.0950614  sec
+tolerence : ± 0.01,  pieces  51, time : 0.1024019  sec
+tolerence : ± 0.005,  pieces  70, time : 0.1107002  sec

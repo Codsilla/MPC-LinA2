@@ -1,0 +1,39 @@
+(((2.0e-7 * x ^ 5 - 2.74e-5 * x ^ 4) + 0.0015145 * x ^ 3) - 0.0245327 * x ^ 2) + 1.9243487x + 5.9056863
+Under
+tolerence : 1.0 %,  pieces  5, time : 0.0074249  sec
+tolerence : 0.1 %,  pieces  18, time : 0.0100836  sec
+tolerence : 0.01 %,  pieces  56, time : 0.0196794  sec
+Over
+tolerence : 1.0 %,  pieces  5, time : 0.0068937  sec
+tolerence : 0.1 %,  pieces  18, time : 0.0099884  sec
+tolerence : 0.01 %,  pieces  56, time : 0.0197651  sec
+Best
+tolerence : 1.0 %,  pieces  4, time : 0.0065561  sec
+tolerence : 0.1 %,  pieces  12, time : 0.0089678  sec
+tolerence : 0.01 %,  pieces  39, time : 0.0162281  sec
+(0.001 * x ^ 3 - 0.024 * x ^ 2) + 1.92x + 5.91
+Under
+tolerence : 1.0 %,  pieces  9, time : 0.0054063  sec
+tolerence : 0.1 %,  pieces  26, time : 0.0096429  sec
+tolerence : 0.01 %,  pieces  81, time : 0.0231208  sec
+Over
+tolerence : 1.0 %,  pieces  9, time : 0.0053891  sec
+tolerence : 0.1 %,  pieces  26, time : 0.0097418  sec
+tolerence : 0.01 %,  pieces  81, time : 0.023094  sec
+Best
+tolerence : 1.0 %,  pieces  6, time : 0.0048062  sec
+tolerence : 0.1 %,  pieces  19, time : 0.0081197  sec
+tolerence : 0.01 %,  pieces  58, time : 0.0178188  sec
+((-0.005 * x ^ 3 + 0.5 * x ^ 2) - 0.8x) + 10.0
+Under
+tolerence : 1.0 %,  pieces  14, time : 0.0065845  sec
+tolerence : 0.1 %,  pieces  42, time : 0.0136622  sec
+tolerence : 0.01 %,  pieces  133, time : 0.035749  sec
+Over
+tolerence : 1.0 %,  pieces  14, time : 0.0064632  sec
+tolerence : 0.1 %,  pieces  42, time : 0.013927  sec
+tolerence : 0.01 %,  pieces  133, time : 0.03617  sec
+Best
+tolerence : 1.0 %,  pieces  9, time : 0.0058363  sec
+tolerence : 0.1 %,  pieces  30, time : 0.0112866  sec
+tolerence : 0.01 %,  pieces  94, time : 0.0282109  sec
